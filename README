@@ -1,0 +1,46 @@
+App-ZofCMS-Plugin-HTMLFactory-Entry
+
+The module is a plugin for L<App::ZofCMS>. The module resides in
+C<App::ZofCMS::Plugin::HTMLFactory::> namespace thus only provides some packed HTML code.
+
+I use the HTML code provided by the plugin virtually on every site, and am sick and tired of
+writing it! Hence the plugin.
+
+INSTALLATION
+
+To install this module, run the following commands:
+
+	perl Build.PL
+	./Build
+	./Build test
+	./Build install
+
+SUPPORT AND DOCUMENTATION
+
+After installing, you can find documentation for this module with the
+perldoc command.
+
+    perldoc App::ZofCMS::Plugin::HTMLFactory::Entry
+
+You can also look for information at:
+
+    RT, CPAN's request tracker
+        http://rt.cpan.org/NoAuth/Bugs.html?Dist=App-ZofCMS-Plugin-HTMLFactory-Entry
+
+    AnnoCPAN, Annotated CPAN documentation
+        http://annocpan.org/dist/App-ZofCMS-Plugin-HTMLFactory-Entry
+
+    CPAN Ratings
+        http://cpanratings.perl.org/d/App-ZofCMS-Plugin-HTMLFactory-Entry
+
+    Search CPAN
+        http://search.cpan.org/dist/App-ZofCMS-Plugin-HTMLFactory-Entry
+
+
+COPYRIGHT AND LICENCE
+
+Copyright (C) 2008 'Zoffix
+
+This program is free software; you can redistribute it and/or modify it
+under the same terms as Perl itself.
+
