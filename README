@@ -1,7 +1,8 @@
 App-ZofCMS-Plugin-HTMLFactory-Entry
 
 The module is a plugin for L<App::ZofCMS>. The module resides in
-C<App::ZofCMS::Plugin::HTMLFactory::> namespace thus only provides some packed HTML code.
+C<App::ZofCMS::Plugin::HTMLFactory::> namespace thus only provides
+some packed HTML code.
 
 I use the HTML code provided by the plugin virtually on every site, and am sick and tired of
 writing it! Hence the plugin.

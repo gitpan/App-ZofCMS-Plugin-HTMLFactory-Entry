@@ -3,7 +3,7 @@ package App::ZofCMS::Plugin::HTMLFactory::Entry;
 use warnings;
 use strict;
 
-our $VERSION = '0.0101';
+our $VERSION = '0.0102';
 
 sub new { bless {}, shift }
 
@@ -23,6 +23,8 @@ END
 
 1;
 __END__
+
+=encoding utf8
 
 =head1 NAME
 
